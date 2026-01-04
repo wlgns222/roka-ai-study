@@ -1,7 +1,7 @@
 # 📘 Deep Learning from Scratch Study (Vol. 1)
 > **"Understanding the internal mechanics of Neural Networks from the ground up."**
 
-《밑바닥부터 시작하는 딥러닝 1》을 공부하며 딥러닝의 기초를 공후한 기록
+《밑바닥부터 시작하는 딥러닝 1》을 공부하며 딥러닝의 기초를 공부한 기록
 
 ## 🎯 학습 목표 (Learning Objectives)
 - 인공 신경망의 수학적 원리(오차역전파, 손실 함수 등)를 밑바닥부터 구현하며 이해합니다.
